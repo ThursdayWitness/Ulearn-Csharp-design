@@ -1,0 +1,10 @@
+C:\Users\Musya\RiderProjects\HOMM\bin\Debug\Inheritance.MapObjects.exe.config
+C:\Users\Musya\RiderProjects\HOMM\bin\Debug\Inheritance.MapObjects.exe
+C:\Users\Musya\RiderProjects\HOMM\bin\Debug\Inheritance.MapObjects.pdb
+C:\Users\Musya\RiderProjects\HOMM\bin\Debug\nunit.framework.dll
+C:\Users\Musya\RiderProjects\HOMM\bin\Debug\nunitlite.dll
+C:\Users\Musya\RiderProjects\HOMM\obj\Debug\Inheritance.MapObjects.csprojAssemblyReference.cache
+C:\Users\Musya\RiderProjects\HOMM\obj\Debug\Inheritance.MapObjects.csproj.CoreCompileInputs.cache
+C:\Users\Musya\RiderProjects\HOMM\obj\Debug\Inheritance.MapObjects.csproj.CopyComplete
+C:\Users\Musya\RiderProjects\HOMM\obj\Debug\Inheritance.MapObjects.exe
+C:\Users\Musya\RiderProjects\HOMM\obj\Debug\Inheritance.MapObjects.pdb

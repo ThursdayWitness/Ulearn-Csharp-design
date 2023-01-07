@@ -1,0 +1,9 @@
+C:\Users\Musya\RiderProjects\TaxiDDD\bin\Debug\Ddd.Infrastructure.dll
+C:\Users\Musya\RiderProjects\TaxiDDD\bin\Debug\Ddd.Infrastructure.pdb
+C:\Users\Musya\RiderProjects\TaxiDDD\bin\Debug\nunit.framework.dll
+C:\Users\Musya\RiderProjects\TaxiDDD\bin\Debug\nunitlite.dll
+C:\Users\Musya\RiderProjects\TaxiDDD\obj\Debug\Ddd.Taxi.csprojAssemblyReference.cache
+C:\Users\Musya\RiderProjects\TaxiDDD\obj\Debug\Ddd.Taxi.csproj.CoreCompileInputs.cache
+C:\Users\Musya\RiderProjects\TaxiDDD\obj\Debug\Ddd.Taxi.csproj.CopyComplete
+C:\Users\Musya\RiderProjects\TaxiDDD\obj\Debug\Ddd.Infrastructure.dll
+C:\Users\Musya\RiderProjects\TaxiDDD\obj\Debug\Ddd.Infrastructure.pdb

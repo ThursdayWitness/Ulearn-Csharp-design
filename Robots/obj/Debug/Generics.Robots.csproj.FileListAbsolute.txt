@@ -1,0 +1,10 @@
+C:\Users\Musya\RiderProjects\Robots\bin\Debug\Generics.Robots.exe.config
+C:\Users\Musya\RiderProjects\Robots\bin\Debug\Generics.Robots.exe
+C:\Users\Musya\RiderProjects\Robots\bin\Debug\Generics.Robots.pdb
+C:\Users\Musya\RiderProjects\Robots\bin\Debug\nunit.framework.dll
+C:\Users\Musya\RiderProjects\Robots\bin\Debug\nunitlite.dll
+C:\Users\Musya\RiderProjects\Robots\obj\Debug\Generics.Robots.csprojAssemblyReference.cache
+C:\Users\Musya\RiderProjects\Robots\obj\Debug\Generics.Robots.csproj.CoreCompileInputs.cache
+C:\Users\Musya\RiderProjects\Robots\obj\Debug\Generics.Robots.csproj.CopyComplete
+C:\Users\Musya\RiderProjects\Robots\obj\Debug\Generics.Robots.exe
+C:\Users\Musya\RiderProjects\Robots\obj\Debug\Generics.Robots.pdb

@@ -1,0 +1,10 @@
+C:\Users\Musya\RiderProjects\BinaryTrees\bin\Debug\Generics.BinaryTree.exe.config
+C:\Users\Musya\RiderProjects\BinaryTrees\bin\Debug\Generics.BinaryTree.exe
+C:\Users\Musya\RiderProjects\BinaryTrees\bin\Debug\Generics.BinaryTree.pdb
+C:\Users\Musya\RiderProjects\BinaryTrees\bin\Debug\nunit.framework.dll
+C:\Users\Musya\RiderProjects\BinaryTrees\bin\Debug\nunitlite.dll
+C:\Users\Musya\RiderProjects\BinaryTrees\obj\Debug\Generics.BinaryTrees.csprojAssemblyReference.cache
+C:\Users\Musya\RiderProjects\BinaryTrees\obj\Debug\Generics.BinaryTrees.csproj.CoreCompileInputs.cache
+C:\Users\Musya\RiderProjects\BinaryTrees\obj\Debug\Generics.BinaryTrees.csproj.CopyComplete
+C:\Users\Musya\RiderProjects\BinaryTrees\obj\Debug\Generics.BinaryTree.exe
+C:\Users\Musya\RiderProjects\BinaryTrees\obj\Debug\Generics.BinaryTree.pdb

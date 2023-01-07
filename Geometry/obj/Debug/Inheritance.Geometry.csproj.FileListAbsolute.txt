@@ -1,0 +1,10 @@
+C:\Users\Musya\RiderProjects\Geometry\bin\Debug\Inheritance.Geometry.exe.config
+C:\Users\Musya\RiderProjects\Geometry\bin\Debug\Inheritance.Geometry.exe
+C:\Users\Musya\RiderProjects\Geometry\bin\Debug\Inheritance.Geometry.pdb
+C:\Users\Musya\RiderProjects\Geometry\bin\Debug\nunit.framework.dll
+C:\Users\Musya\RiderProjects\Geometry\bin\Debug\nunitlite.dll
+C:\Users\Musya\RiderProjects\Geometry\obj\Debug\Inheritance.Geometry.csprojAssemblyReference.cache
+C:\Users\Musya\RiderProjects\Geometry\obj\Debug\Inheritance.Geometry.csproj.CoreCompileInputs.cache
+C:\Users\Musya\RiderProjects\Geometry\obj\Debug\Inheritance.Geometry.csproj.CopyComplete
+C:\Users\Musya\RiderProjects\Geometry\obj\Debug\Inheritance.Geometry.exe
+C:\Users\Musya\RiderProjects\Geometry\obj\Debug\Inheritance.Geometry.pdb

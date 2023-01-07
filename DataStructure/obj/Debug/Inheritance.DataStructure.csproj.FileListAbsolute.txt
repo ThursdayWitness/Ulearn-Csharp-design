@@ -1,0 +1,10 @@
+C:\Users\Musya\RiderProjects\DataStructure\obj\Debug\Inheritance.DataStructure.csprojAssemblyReference.cache
+C:\Users\Musya\RiderProjects\DataStructure\obj\Debug\Inheritance.DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\Musya\RiderProjects\DataStructure\bin\Debug\Inheritance.DataStructure.exe.config
+C:\Users\Musya\RiderProjects\DataStructure\bin\Debug\Inheritance.DataStructure.exe
+C:\Users\Musya\RiderProjects\DataStructure\bin\Debug\Inheritance.DataStructure.pdb
+C:\Users\Musya\RiderProjects\DataStructure\bin\Debug\nunit.framework.dll
+C:\Users\Musya\RiderProjects\DataStructure\bin\Debug\nunitlite.dll
+C:\Users\Musya\RiderProjects\DataStructure\obj\Debug\Inheritance.DataStructure.csproj.CopyComplete
+C:\Users\Musya\RiderProjects\DataStructure\obj\Debug\Inheritance.DataStructure.exe
+C:\Users\Musya\RiderProjects\DataStructure\obj\Debug\Inheritance.DataStructure.pdb

@@ -1,0 +1,10 @@
+C:\Users\Musya\RiderProjects\API\bin\Debug\Memory.API.exe.config
+C:\Users\Musya\RiderProjects\API\bin\Debug\Memory.API.exe
+C:\Users\Musya\RiderProjects\API\bin\Debug\Memory.API.pdb
+C:\Users\Musya\RiderProjects\API\bin\Debug\nunit.framework.dll
+C:\Users\Musya\RiderProjects\API\bin\Debug\nunitlite.dll
+C:\Users\Musya\RiderProjects\API\obj\Debug\Memory.API.csprojAssemblyReference.cache
+C:\Users\Musya\RiderProjects\API\obj\Debug\Memory.API.csproj.CoreCompileInputs.cache
+C:\Users\Musya\RiderProjects\API\obj\Debug\Memory.API.csproj.CopyComplete
+C:\Users\Musya\RiderProjects\API\obj\Debug\Memory.API.exe
+C:\Users\Musya\RiderProjects\API\obj\Debug\Memory.API.pdb
