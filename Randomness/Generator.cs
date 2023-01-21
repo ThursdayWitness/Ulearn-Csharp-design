@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Reflection;
 
 namespace Reflection.Randomness
 {
@@ -24,20 +23,31 @@ namespace Reflection.Randomness
     
     public class Generator<TClass> where TClass : new()
     {
-        private readonly IEnumerable<PropertyInfo> _classProperties = typeof(TClass).GetProperties()
-            .Where(propertyInfo=> propertyInfo.GetCustomAttributes(false)
-                .OfType<FromDistribution>().FirstOrDefault() != null);
+        private readonly List<FromDistribution> _classProperties = new List<FromDistribution>();
+
+        public Generator()
+        {
+            foreach (var property in typeof(TClass).GetProperties())
+            {
+                _classProperties.Add(property.GetCustomAttributes(false)
+                    .OfType<FromDistribution>().FirstOrDefault());
+            }
+        }
 
         public TClass Generate(Random seed)
         {
             var classInstance = new TClass();
-            foreach (var property in _classProperties)
+            var counter = 0;
+            foreach (var property in typeof(TClass).GetProperties())
             {
-                var propertyDistribution = property.GetCustomAttributes(false)
-                                                .OfType<FromDistribution>().First().Distribution;
-                property.SetValue(classInstance, propertyDistribution.Generate(seed));
+                if (_classProperties[counter] == null)
+                {
+                    counter++;
+                    continue;
+                }
+                property.SetValue(classInstance, _classProperties[counter].Distribution.Generate(seed));
+                counter++;
             }
-
             return classInstance;
         }
     }
