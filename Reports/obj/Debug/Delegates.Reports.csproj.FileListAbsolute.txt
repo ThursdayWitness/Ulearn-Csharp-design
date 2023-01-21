@@ -1,0 +1,10 @@
+C:\Users\Musya\RiderProjects\Ulearn-Csharp-design\Reports\bin\Debug\Delegates.Reports.exe.config
+C:\Users\Musya\RiderProjects\Ulearn-Csharp-design\Reports\bin\Debug\Delegates.Reports.exe
+C:\Users\Musya\RiderProjects\Ulearn-Csharp-design\Reports\bin\Debug\Delegates.Reports.pdb
+C:\Users\Musya\RiderProjects\Ulearn-Csharp-design\Reports\bin\Debug\nunit.framework.dll
+C:\Users\Musya\RiderProjects\Ulearn-Csharp-design\Reports\bin\Debug\nunitlite.dll
+C:\Users\Musya\RiderProjects\Ulearn-Csharp-design\Reports\obj\Debug\Delegates.Reports.csprojAssemblyReference.cache
+C:\Users\Musya\RiderProjects\Ulearn-Csharp-design\Reports\obj\Debug\Delegates.Reports.csproj.CoreCompileInputs.cache
+C:\Users\Musya\RiderProjects\Ulearn-Csharp-design\Reports\obj\Debug\Delegates.Reports.csproj.CopyComplete
+C:\Users\Musya\RiderProjects\Ulearn-Csharp-design\Reports\obj\Debug\Delegates.Reports.exe
+C:\Users\Musya\RiderProjects\Ulearn-Csharp-design\Reports\obj\Debug\Delegates.Reports.pdb
